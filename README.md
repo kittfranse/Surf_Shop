@@ -1,4 +1,4 @@
-# Surf_Shop
+# Surf Shop in Oahu
 SQLite and SQLAlchemy based analysis
 
 
@@ -20,4 +20,4 @@ Fortunately, the weather in Hawaii is consistently perfect throughout the year.
 - Unsurprisingly, the temperatures in December are slightly lower, but a few degrees, than in June.
 
 ## Summary
-This analysis could be improved by grouping the data by year to see if the average temperatures are consistently represenstative from year to year.  Additionally, comparing the precipitation with the temperatures for both months in a separate query would also improve the robustness of the analysis.
+Overall, it is safe for the client to move forward with this venture. The temperatures are stable throughout the year in Hawaii, which means precipitation may contribute to some changes in customer level, but it is unlikely that there will be a quiet season in the shop.  This analysis could be improved by grouping the data by year to see if the average temperatures are consistently represenstative from year to year.  Additionally, comparing the precipitation with the temperatures for both months in a separate query would also improve the robustness of the analysis.
